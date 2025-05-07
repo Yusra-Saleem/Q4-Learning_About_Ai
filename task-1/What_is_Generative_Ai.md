@@ -1,4 +1,4 @@
-# 🤖 What Exactly Is Generative AI?
+#  What Exactly Is Generative AI?
 
 ## 🔍 What is AI?  
 **AI (Artificial Intelligence)** refers to machines that can learn and solve problems like humans.
@@ -11,7 +11,7 @@
 
 ---
 
-## 🧠 Types of AI
+##  Types of AI
 
 | Type | Examples | Description |
 |------|----------|-------------|
@@ -20,7 +20,7 @@
 
 ---
 
-## 🎨 Imagine Having:
+## Imagine Having:
 
 - ✍️ A writing assistant that **never gets writer’s block**
 - 🖌️ An artist that can **create in any style**
@@ -58,7 +58,7 @@ That's **Generative AI** in a nutshell.
 
 ---
 
-## 🛠️ Workflow & Use Cases
+
 
 ### For Students:
 - 📚 AI tutor available **24/7**
@@ -87,7 +87,7 @@ Most people misuse AI tools:
 ❌ Give up after one try  
 ❌ Never refine or customize outputs  
 
-**✅ Pro Tip:**  
+** Pro Tip:**  
 🔑 *Prompt Engineering* is the secret to unlocking real AI power!
 
 ---
