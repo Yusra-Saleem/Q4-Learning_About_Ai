@@ -87,7 +87,7 @@ Most people misuse AI tools:
 ❌ Give up after one try  
 ❌ Never refine or customize outputs  
 
-** Pro Tip:**  
+**Pro Tip:**  
 🔑 *Prompt Engineering* is the secret to unlocking real AI power!
 
 ---
