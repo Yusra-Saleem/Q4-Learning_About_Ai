@@ -40,7 +40,7 @@ That's **Generative AI** in a nutshell.
 
 ---
 
-## 🍔 How It Works — *The Burger Analogy*
+## 🍔 How It Works  *The Burger Analogy*
 
 ### The Bun (Data Input)
 - AI “eats” millions of books, images, songs  
