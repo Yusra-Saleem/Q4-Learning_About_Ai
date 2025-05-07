@@ -61,13 +61,13 @@ That's **Generative AI** in a nutshell.
 
 
 ### For Students:
-- 📚 AI tutor available **24/7**
+-  AI tutor available **24/7**
 
 ### For Entrepreneurs:
-- 🚀 Generate business plans, logos, websites **in hours**
+-  Generate business plans, logos, websites **in hours**
 
 ### For Creatives:
-- 🎨 Break through creative blocks **instantly**
+-  Break through creative blocks **instantly**
 
 ---
 
